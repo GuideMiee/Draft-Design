@@ -102,7 +102,7 @@ const Index = () => {
         <img
           src="/public/images/person.png" // Replace with your actual image source
           alt="Person"
-          className="w-full h-auto rounded-lg "
+          className="rounded-lg "
         />
 
         {/* Text Box */}
