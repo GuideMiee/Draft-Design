@@ -150,7 +150,7 @@ const Service = () => {
           {/* <!-- Card 1 --> */}
           <div class="flex items-center justify-center bg-white shadow-lg p-4 rounded-lg w-72 h-40">
             <img
-              src="/public/images/project.png"
+              src="/src/assets/project.png"
               class="w-14 h-14 text-gray-800"
             />
 
@@ -164,7 +164,7 @@ const Service = () => {
           {/* <!-- Card 2 --> */}
           <div class="flex items-center justify-center bg-white shadow-lg p-4 rounded-lg w-72 ">
             <img
-              src="/public/images/handshake_445296.png"
+              src="/src/assets/handshake_445296.png"
               class="w-14 h-14 text-gray-800"
             />
 
@@ -178,7 +178,7 @@ const Service = () => {
           {/* <!-- Card 3 --> */}
           <div class="flex items-center justify-center bg-white shadow-lg p-4 rounded-lg w-72 h-40">
             <img
-              src="/public/images/win.png"
+              src="/src/assets/win.png"
               class="w-14 h-14 text-gray-800"
             />
 
@@ -192,7 +192,7 @@ const Service = () => {
           {/* <!-- Card 4 --> */}
           <div class="flex items-center justify-center bg-white shadow-lg p-4 rounded-lg w-72">
             <img
-              src="/public/images/year.png"
+              src="/src/assets/year.png"
               class="w-14 h-14 text-gray-800"
             />
 
