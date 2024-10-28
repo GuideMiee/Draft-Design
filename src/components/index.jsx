@@ -100,7 +100,7 @@ const Index = () => {
       <div className="relative bg-white rounded-lg shadow-lg max-w-screen-lg">
         {/* Image */}
         <img
-          src="/public/images/person.png" // Replace with your actual image source
+          src="/src/images/person.png" // Replace with your actual image source
           alt="Person"
           className="rounded-lg "
         />
